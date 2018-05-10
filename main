@@ -5,4 +5,4 @@
 
 file=$(jq -r .file config.json)
 
-cp $file ./
+cp $file ./ && tar -xf $file && rm $file
