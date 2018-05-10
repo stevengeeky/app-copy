@@ -1,3 +1,3 @@
 # app-copy
 
-An app for brain-life to simply copy a precomputed output dataset to the current directory.
+An app for Brain Life to simply copy a precomputed output dataset to the current directory.
